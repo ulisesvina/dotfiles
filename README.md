@@ -6,7 +6,7 @@
 ## What are Dotfiles?
 Dotfiles are configuration files for software, mostly used in \*NIX (POSIX-compliant) operating systems (Linux-based OS'es, GNU, macOS, Unix).
 ## How can I use them?
-These dotfiles are for specific software I use in my daily bases, in my Arch Linux installation. If you're interested in setting up this software please refer to the [Arch Wiki](https://wiki.archlinux.org/), or the [Gentoo Handbook](https://wiki.gentoo.org/wiki/Handbook:AMD64/es) (which, in my opinion is better documented). Once installed, you can pretty much just "copy" these files onto your `$HOME/.config` directory.
+These dotfiles are for specific software I use in my daily basis, in my Arch Linux installation. If you're interested in setting up this software please refer to the [Arch Wiki](https://wiki.archlinux.org/), or the [Gentoo Handbook](https://wiki.gentoo.org/wiki/Handbook:AMD64/es) (which, in my opinion is better documented). Once installed, you can pretty much just "copy" these files onto your `$HOME/.config` directory.
 ## What software do this dotfiles cover?
 Currently, only
 - i3wm
