@@ -1,0 +1,30 @@
+window:
+  padding:
+    x: 20
+    y: 20
+font:
+  normal:
+    family: Anonymice Nerd Font Mono
+    style: Normal
+  bold:
+    family: Anonymice Nerd Font Mono
+    style: Bold
+  italic:
+    family: Anonymice Nerd Font Mono
+    style: Italic
+  bold_italic:
+    family: Anonymice Nerd Font Mono
+    style: Bold Italic
+
+  size: 11.0
+
+colors:
+  primary:
+    background: '#121212'
+    foreground: '#ffffff'
+cursor:
+  style:
+    shape: Beam
+
+shell:
+  program: /usr/bin/zsh
